@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVProductAnalyzer_LINQ_Lambda", "CSVProductAnalyzer_LINQ_Lambda\CSVProductAnalyzer_LINQ_Lambda.csproj", "{53749E75-31BE-4741-B99E-E16C4C7ACD12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53749E75-31BE-4741-B99E-E16C4C7ACD12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53749E75-31BE-4741-B99E-E16C4C7ACD12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53749E75-31BE-4741-B99E-E16C4C7ACD12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53749E75-31BE-4741-B99E-E16C4C7ACD12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {697A38C7-5FD9-47C5-BF3C-341F8831E158}
+	EndGlobalSection
+EndGlobal
